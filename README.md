@@ -20,16 +20,16 @@
 - ChartJS
 
 ### Puedes encontrar algunos ejemplos de mi trabajo a continuación
-- [Gatsby Hotel](https://gatsby-hotel.web.app/)
-- [Doctrina EC](https://doctrina-planning.web.app/)
-- [Product Hunt (Personalizado)](https://product-hunt-next-js.web.app/)
-- [Organizador de Tareas](https://tareas-mern.web.app/)
-- [Majo Cobos (Community Manager)](https://majocobos.com/)
-- [Solución Tecnológica](https://soluciontecnologica.ec/)
-- [Yireh Fly (Escuela de Azafatas)](https://yireh-fly.com/)
-- [Cóndor Priority - Courier Express](https://condor-priority.com/)
+- [Gatsby Hotel](https://gatsby-hotel.web.app)
+- [Doctrina EC](https://doctrina-planning.web.app)
+- [Product Hunt (Personalizado)](https://product-hunt-next-js.web.app)
+- [Organizador de Tareas](https://tareas-mern.web.app)
+- [Majo Cobos (Community Manager)](https://majo-cobos.firebaseapp.com/home)
+- [Solución Tecnológica](https://soluciontecnologica.ec)
+- [Yireh Fly (Escuela de Azafatas)](https://yireh-fly.com)
 - [Veci Online](https://vecionline.com)
-
+- [KEM Eccuador](https://kemecuador.com)
+- [Aeroregional](https://aeroregional.net)
 
 ## Contáctame
 
