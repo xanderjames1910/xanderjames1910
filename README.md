@@ -25,11 +25,11 @@
 - [Product Hunt (Personalizado)](https://product-hunt-next-js.web.app)
 - [Organizador de Tareas](https://tareas-mern.web.app)
 - [Majo Cobos (Community Manager)](https://majo-cobos.firebaseapp.com/home)
-- [Solución Tecnológica](https://soluciontecnologica.ec)
+- [Solución Tecnológica (Soporte tecnológico)](https://soluciontecnologica.ec)
 - [Yireh Fly (Escuela de Azafatas)](https://yireh-fly.com)
-- [Veci Online](https://vecionline.com)
-- [KEM Eccuador](https://kemecuador.com)
-- [Aeroregional](https://aeroregional.net)
+- [Veci Online (Comunidad de negocios)](https://vecionline.com)
+- [KEM Eccuador (Aditivos alimenticios)](https://kemecuador.com)
+- [Aeroregional (Aerolínea ecuatoriana)](https://aeroregional.net)
 
 ## Contáctame
 
