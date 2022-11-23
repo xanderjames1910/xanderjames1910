@@ -26,7 +26,6 @@
 - [Organizador de Tareas](https://tareas-mern.web.app)
 - [Majo Cobos (Community Manager)](https://majo-cobos.firebaseapp.com/home)
 - [Solución Tecnológica (Soporte tecnológico)](https://soluciontecnologica.ec)
-- [Yireh Fly (Escuela de Azafatas)](https://yireh-fly.com)
 - [Veci Online (Comunidad de negocios)](https://vecionline.com)
 - [KEM Eccuador (Aditivos alimenticios)](https://kemecuador.com)
 - [Aeroregional (Aerolínea ecuatoriana)](https://aeroregional.net)
