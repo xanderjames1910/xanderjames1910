@@ -29,7 +29,7 @@ I'm a passionate developer with experience in a wide range of technologies. My g
 ### Examples of My Work
 - [Utransfer (Wallet App)](https://fe.virtusproject.online)
 - [Aeroregional (Ecuadorian airline)](https://aeroregional.net)
-- [KEM Eccuador (Food aditives)](https://kemecuador.com)
+- [KEM Ecuador (Food aditives)](https://kemecuador.com)
 - [Veci Online (Business community)](https://vecionline.com)
 - [Gatsby Hotel](https://gatsby-hotel.web.app)
 - [Doctrina EC](https://doctrina-planning.web.app)
