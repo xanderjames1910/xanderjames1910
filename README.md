@@ -46,7 +46,6 @@ I'm always ready to answer your questions and discuss how I can contribute to yo
 | Phone | [My phone number](https://link-to-tel.herokuapp.com/tel/%2B593963101689) |
 | Email | [jimmy.montes1910@gmail.com](mailto:jimmy.montes1910@gmail.com) |
 | LinkedIn | [jmontes-1910](https://www.linkedin.com/in/jmontes-1910) |
-| Facebook | [xanderjames1910](https://www.facebook.com/xanderjames1910) |
 
 I look forward to working together and contributing to your company's success!
 
