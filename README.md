@@ -2,8 +2,9 @@
 
 ![N|Solid](https://firebasestorage.googleapis.com/v0/b/quedate-en-casa-ae2e8.appspot.com/o/Personal%20Jimmy%2FFondo%20GitHub_660x440.jpg?alt=media&token=d3799e9c-ab95-4f16-9b2e-7a30509f4333)
 
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanderjames1910&show_icons=true&hide=contribs,prs)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderjames1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
