@@ -27,6 +27,7 @@ I'm a passionate developer with experience in a wide range of technologies. My g
 - Chart.js
 
 ### Examples of My Work
+- [DGI (Aviation App)](https://dg-info.com)
 - [Utransfer (Wallet App)](https://fe.virtusproject.online)
 - [Aeroregional (Ecuadorian airline)](https://aeroregional.net)
 - [KEM Ecuador (Food aditives)](https://kemecuador.com)
