@@ -4,16 +4,16 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/Español-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<!-- Header -->
+<!-- Header banner — replace with your new image after generating it -->
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/quedate-en-casa-ae2e8.appspot.com/o/Personal%20Jimmy%2FFondo%20GitHub_660x440.jpg?alt=media&token=d3799e9c-ab95-4f16-9b2e-7a30509f4333" width="100%" alt="Jimmy Montes Banner" />
+  <img src="[https://firebasestorage.googleapis.com/v0/b/quedate-en-casa-ae2e8.appspot.com/o/Personal%20Jimmy%2FFondo%20GitHub_660x440.jpg?alt=media&token=d3799e9c-ab95-4f16-9b2e-7a30509f4333](https://raw.githubusercontent.com/xanderjames1910/xanderjames1910/refs/heads/main/Jimmy%20Montes%20-%20Web%20Master%20Desarrollador%20Full%20Stack.JPEG)" width="100%" alt="Jimmy Montes Banner" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jimmy+Montes+%F0%9F%91%8B;Web+Master+%26+Full+Stack+Developer;Founder+%40+Vora;8%2B+years+building+scalable+web+apps;Based+in+Quito%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jimmy+Montes+%F0%9F%91%8B;Web+Master+%26+Full+Stack+Developer;Founder+%40+Vora+%7C+SaaS+%26+AI;8%2B+years+building+scalable+web+apps;Based+in+Quito%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,13 +41,13 @@ Web Master & Full Stack Developer with **8+ years of experience** building scala
 Currently working as **Full Stack Consultant at Zeyo**, contributing to enterprise platforms and government integrations. Founder of **Vora**, a SaaS ecosystem that includes an AI-powered LMS and an intelligent customer service assistant.
 
 ```yaml
-name: Jimmy Montes
-location: Quito, Ecuador 🇪🇨
-role: Web Master & Full Stack Developer
-company: Zeyo (Full Stack Consultant)
-founded: Vora (LMS + AI Chat SaaS)
+name:       Jimmy Montes
+location:   Quito, Ecuador 🇪🇨
+role:       Web Master & Full Stack Developer
+current:    Zeyo — Full Stack Consultant
+founder:    Vora — LMS + AI Chat SaaS
 experience: 8+ years
-focus: Cloud-native apps · SaaS · AI & RAG · E-Commerce
+focus:      Cloud-native · SaaS · AI & RAG · E-Commerce
 ```
 
 ---
@@ -58,7 +58,7 @@ focus: Cloud-native apps · SaaS · AI & RAG · E-Commerce
   <tr>
     <td width="50%">
       <h3>🎓 Vora LMS</h3>
-      <p>Cloud-native Learning Management System. Create courses, manage students, run evaluations, issue certificates — all powered with Gemini AI.</p>
+      <p>Cloud-native Learning Management System. Create courses, manage students, run evaluations and issue certificates — all powered with Gemini AI.</p>
       <p><strong>Status:</strong> 95% complete — launching soon 🚀</p>
       <a href="https://vora-lms.vercel.app">
         <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -66,7 +66,7 @@ focus: Cloud-native apps · SaaS · AI & RAG · E-Commerce
     </td>
     <td width="50%">
       <h3>💬 Vora Chat</h3>
-      <p>AI-powered customer service assistant combining RAG, GenUI and API integrations to process sales, capture leads and connect with CRMs & ERPs.</p>
+      <p>AI-powered customer service assistant combining RAG, GenUI and API integrations to process sales, capture leads and connect with CRMs & ERPs. Available via web and WhatsApp.</p>
       <p><strong>First client:</strong> Aeroregional ✈️</p>
       <a href="https://www.vora.chat">
         <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -126,10 +126,11 @@ focus: Cloud-native apps · SaaS · AI & RAG · E-Commerce
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🎓 **Vora LMS** | Cloud-native LMS with Gemini AI integration | Next.js · TypeScript · PostgreSQL · Gemini AI | [→](https://vora-lms.vercel.app) |
+| 🎓 **Vora LMS** | Cloud-native LMS with Gemini AI | Next.js · TypeScript · PostgreSQL · Gemini AI | [→](https://vora-lms.vercel.app) |
 | 💬 **Vora Chat** | AI assistant with RAG, GenUI & API integrations | Next.js · RAG · GenUI · PostgreSQL | [→](https://www.vora.chat) |
 | ✈️ **Aeroregional** | Airline site with Kiusys API for ticket sales | Next.js · PostgreSQL · Kiusys API | [→](https://www.aeroregional.net) |
 | 🖊️ **Firmas Electrónicas EC** | Full-stack e-signature platform on AWS | Next.js · Spring Boot · AWS Amplify | [→](https://firmador.firmaselectronicasecuador.com) |
+| 💸 **Utransfer** | Digital wallet app published on the App Store | Flutter · Firebase | [→](https://apps.apple.com/us/app/utransfer-its/id6470413790) |
 | 🛍️ **Soffi Organic** | E-commerce for organic products | — | [→](https://www.soffiorganic.com) |
 | 🛒 **Maku** | Ecuadorian e-commerce platform | — | [→](https://maku.com.ec) |
 | 🏪 **Veci Online** | Community e-commerce & business directory | React · Firebase | [→](https://www.vecionline.com) |
@@ -138,8 +139,8 @@ focus: Cloud-native apps · SaaS · AI & RAG · E-Commerce
 
 ## 💼 Work Experience
 
-**🔷 Full Stack Consultant @ Zeyo** *(current)*
-Contributing to enterprise-grade platforms:
+**🔷 Full Stack Consultant @ Zeyo** *(2022 — present)*
+Enterprise-grade platforms for corporate and government clients:
 - **Certero** — digital certificate management system
 - **Zeyotrack / Safetrack** — tracking & traceability platforms
 - **Regi** — omnichannel WhatsApp integration with Ecuador's Registro Civil (ID & passport appointments at national scale)
@@ -148,12 +149,40 @@ Stack: `Angular` `NestJS` `TypeScript` `Kubernetes` `WhatsApp API`
 
 ---
 
+**🔶 Full Stack Developer @ Abitmedia** *(project-based)*
+Built and delivered two independent platforms:
+- **Firmas Electrónicas Ecuador** — end-to-end e-signature platform (design → frontend → backend → AWS deployment, including production and sandbox environments)
+- **Abitmedia Cloud** — enterprise management platform (architecture design, Figma UI, Angular frontend, Spring Boot backend)
+
+Stack: `Next.js` `Java Spring Boot` `Angular` `AWS Amplify` `Figma`
+
+---
+
+**🔷 Web Developer @ Aeroregional** *(2022 — present)*
+Long-term management and evolution of the corporate website for this Ecuadorian regional airline. Currently delivering a full redesign with Next.js and integrating Vora Chat as the airline's AI customer service assistant, scheduled to go live in March 2026.
+
+Stack: `Next.js` `PostgreSQL` `Kiusys API` `Vora Chat` `Vercel`
+
+---
+
+**🔶 Full Stack Developer @ Virtus Project — Utransfer** *(project-based)*
+Developed Utransfer, a digital wallet mobile app published on the Apple App Store. Handles peer-to-peer transfers with a clean, simple UX focused on security.
+
+Stack: `Flutter` `Firebase`
+
+---
+
 ## 📊 GitHub Activity
 
-![](https://komarev.com/ghpvc/?username=xanderjames1910&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderjames1910&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&dates=555555" />
+</div>
 
-> Most of my work lives in private repositories across client projects,
-> SaaS platforms and enterprise solutions. Check out my featured projects below. 👇
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xanderjames1910&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</div>
+
+> Most of my work lives in private repositories across client projects, SaaS platforms and enterprise solutions. 1,896+ contributions since 2018.
 
 ---
 
