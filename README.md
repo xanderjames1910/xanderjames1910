@@ -151,8 +151,8 @@ Stack: `Angular` `NestJS` `TypeScript` `Kubernetes` `WhatsApp API`
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xanderjames1910&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=7C3AED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderjames1910&layout=compact&theme=default&hide_border=true&title_color=2563EB" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstats-mianfeatures-kaueMarques.vercel.app/api?username=xanderjames1910&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=7C3AED" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstats-mianfeatures-kaueMarques.vercel.app/api/top-langs/?username=xanderjames1910&layout=compact&theme=default&hide_border=true&title_color=2563EB" />
 </div>
 
 <div align="center">
