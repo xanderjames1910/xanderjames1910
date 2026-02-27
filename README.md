@@ -6,7 +6,7 @@
 
 <!-- Header banner — replace with your new image after generating it -->
 <div align="center">
-  <img src="[https://firebasestorage.googleapis.com/v0/b/quedate-en-casa-ae2e8.appspot.com/o/Personal%20Jimmy%2FFondo%20GitHub_660x440.jpg?alt=media&token=d3799e9c-ab95-4f16-9b2e-7a30509f4333](https://raw.githubusercontent.com/xanderjames1910/xanderjames1910/refs/heads/main/Jimmy%20Montes%20-%20Web%20Master%20Desarrollador%20Full%20Stack.JPEG)" width="100%" alt="Jimmy Montes Banner" />
+  <img src="https://github.com/xanderjames1910/xanderjames1910/blob/48a0dc769481485eba5bdec104bde45c926f5cb7/Jimmy%20Montes%20-%20Web%20Master%20Desarrollador%20Full%20Stack.JPEG" width="100%" alt="Jimmy Montes Banner" />
 </div>
 
 <br/>
