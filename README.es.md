@@ -4,16 +4,16 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/Español-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<!-- Header -->
+<!-- Header banner — reemplazar con tu nueva imagen después de generarla -->
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/quedate-en-casa-ae2e8.appspot.com/o/Personal%20Jimmy%2FFondo%20GitHub_660x440.jpg?alt=media&token=d3799e9c-ab95-4f16-9b2e-7a30509f4333" width="100%" alt="Jimmy Montes Banner" />
+  <img src="https://github.com/xanderjames1910/xanderjames1910/blob/48a0dc769481485eba5bdec104bde45c926f5cb7/Jimmy%20Montes%20-%20Web%20Master%20Desarrollador%20Full%20Stack.JPEG" width="100%" alt="Jimmy Montes Banner" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jimmy+Montes+%F0%9F%91%8B;Web+Master+%26+Full+Stack+Developer;Founder+%40+Vora;8%2B+a%C3%B1os+creando+soluciones+web;Basado+en+Quito%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Jimmy+Montes+%F0%9F%91%8B;Web+Master+%26+Full+Stack+Developer;Founder+%40+Vora+%7C+SaaS+%26+IA;8%2B+a%C3%B1os+creando+soluciones+web;Basado+en+Quito%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,13 +41,13 @@ Web Master & Full Stack Developer con **8+ años de experiencia** construyendo s
 Actualmente trabajo como **Consultor Full Stack en Zeyo**, contribuyendo a plataformas enterprise y proyectos de integración gubernamental. Founder de **Vora**, ecosistema SaaS que incluye un LMS con IA y un asistente inteligente de atención al cliente.
 
 ```yaml
-nombre: Jimmy Montes
-ubicación: Quito, Ecuador 🇪🇨
-rol: Web Master & Full Stack Developer
-empresa: Zeyo (Consultor Full Stack)
-fundador: Vora (LMS + AI Chat SaaS)
+nombre:      Jimmy Montes
+ubicación:   Quito, Ecuador 🇪🇨
+rol:         Web Master & Full Stack Developer
+actual:      Zeyo — Consultor Full Stack
+fundador:    Vora — LMS + AI Chat SaaS
 experiencia: 8+ años
-enfoque: Apps cloud-native · SaaS · IA & RAG · E-Commerce
+enfoque:     Cloud-native · SaaS · IA & RAG · E-Commerce
 ```
 
 ---
@@ -66,7 +66,7 @@ enfoque: Apps cloud-native · SaaS · IA & RAG · E-Commerce
     </td>
     <td width="50%">
       <h3>💬 Vora Chat</h3>
-      <p>Asistente de atención al cliente con IA que combina RAG, GenUI e integraciones con APIs para procesar ventas, capturar leads y conectarse con CRMs & ERPs.</p>
+      <p>Asistente de atención al cliente con IA que combina RAG, GenUI e integraciones con APIs para procesar ventas, capturar leads y conectarse con CRMs & ERPs. Disponible vía web y WhatsApp.</p>
       <p><strong>Primer cliente:</strong> Aeroregional ✈️</p>
       <a href="https://www.vora.chat">
         <img src="https://img.shields.io/badge/Ver%20Proyecto-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -130,6 +130,7 @@ enfoque: Apps cloud-native · SaaS · IA & RAG · E-Commerce
 | 💬 **Vora Chat** | Asistente IA con RAG, GenUI e integraciones API | Next.js · RAG · GenUI · PostgreSQL | [→](https://www.vora.chat) |
 | ✈️ **Aeroregional** | Sitio de aerolínea con API Kiusys para venta de tickets | Next.js · PostgreSQL · Kiusys API | [→](https://www.aeroregional.net) |
 | 🖊️ **Firmas Electrónicas EC** | Plataforma de firma electrónica full-stack en AWS | Next.js · Spring Boot · AWS Amplify | [→](https://firmador.firmaselectronicasecuador.com) |
+| 💸 **Utransfer** | App de billetera digital publicada en el App Store | Flutter · Firebase | [→](https://apps.apple.com/us/app/utransfer-its/id6470413790) |
 | 🛍️ **Soffi Organic** | E-commerce de productos orgánicos | — | [→](https://www.soffiorganic.com) |
 | 🛒 **Maku** | Plataforma ecuatoriana de e-commerce | — | [→](https://maku.com.ec) |
 | 🏪 **Veci Online** | E-commerce comunitario y directorio de negocios | React · Firebase | [→](https://www.vecionline.com) |
@@ -138,8 +139,8 @@ enfoque: Apps cloud-native · SaaS · IA & RAG · E-Commerce
 
 ## 💼 Experiencia
 
-**🔷 Consultor Full Stack @ Zeyo** *(actual)*
-Contribuyo al desarrollo de plataformas enterprise de alto impacto:
+**🔷 Consultor Full Stack @ Zeyo** *(2022 — actual)*
+Plataformas enterprise para clientes corporativos y gubernamentales:
 - **Certero** — sistema de gestión y emisión de certificados digitales
 - **Zeyotrack / Safetrack** — plataformas de seguimiento y trazabilidad
 - **Regi** — integración omnicanal con el Registro Civil del Ecuador vía WhatsApp (turnos de cédula y pasaporte a escala nacional)
@@ -148,20 +149,40 @@ Stack: `Angular` `NestJS` `TypeScript` `Kubernetes` `WhatsApp API`
 
 ---
 
-## 📊 Estadísticas de GitHub
+**🔶 Desarrollador Full Stack @ Abitmedia** *(por proyecto)*
+Entregué dos plataformas independientes de manera integral:
+- **Firmas Electrónicas Ecuador** — plataforma de firma electrónica de extremo a extremo (diseño → frontend → backend → despliegue en AWS, incluyendo versión de producción y sandbox)
+- **Abitmedia Cloud** — plataforma de gestión empresarial (arquitectura, UI en Figma, frontend Angular, backend Spring Boot)
+
+Stack: `Next.js` `Java Spring Boot` `Angular` `AWS Amplify` `Figma`
+
+---
+
+**🔷 Desarrollador Web @ Aeroregional** *(2022 — actual)*
+Gestión y evolución continua del sitio web corporativo de la aerolínea regional ecuatoriana. Actualmente entregando un rediseño completo en Next.js con integración de Vora Chat como asistente de atención al cliente, con lanzamiento previsto para marzo 2026.
+
+Stack: `Next.js` `PostgreSQL` `Kiusys API` `Vora Chat` `Vercel`
+
+---
+
+**🔶 Desarrollador Full Stack @ Virtus Project — Utransfer** *(por proyecto)*
+Desarrollé Utransfer, una app móvil de billetera digital publicada en el App Store de Apple. Permite transferencias entre usuarios con una UX simple y enfocada en seguridad.
+
+Stack: `Flutter` `Firebase`
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xanderjames1910&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=7C3AED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderjames1910&layout=compact&theme=default&hide_border=true&title_color=2563EB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderjames1910&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&dates=555555" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderjames1910&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB" />
+  <img src="https://komarev.com/ghpvc/?username=xanderjames1910&style=for-the-badge&color=2563EB&label=VISITAS+AL+PERFIL" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xanderjames1910&theme=flat&no-frame=true&column=7&margin-w=10" />
-</div>
+> La mayor parte de mi trabajo vive en repositorios privados entre proyectos de clientes, plataformas SaaS y soluciones enterprise. 1,896+ contribuciones desde 2018.
 
 ---
 
