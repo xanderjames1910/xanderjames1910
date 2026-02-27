@@ -148,20 +148,12 @@ Stack: `Angular` `NestJS` `TypeScript` `Kubernetes` `WhatsApp API`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstats-mianfeatures-kaueMarques.vercel.app/api?username=xanderjames1910&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=7C3AED" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstats-mianfeatures-kaueMarques.vercel.app/api/top-langs/?username=xanderjames1910&layout=compact&theme=default&hide_border=true&title_color=2563EB" />
-</div>
+![](https://komarev.com/ghpvc/?username=xanderjames1910&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderjames1910&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xanderjames1910&theme=flat&no-frame=true&column=7&margin-w=10" />
-</div>
+> Most of my work lives in private repositories across client projects,
+> SaaS platforms and enterprise solutions. Check out my featured projects below. 👇
 
 ---
 
